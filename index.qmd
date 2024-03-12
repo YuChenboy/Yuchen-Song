@@ -1,6 +1,12 @@
 ---
 title: "Yuchen Song"
-format: html
+format:
+  html: 
+    theme: cosmo
+    mainfont: Times New Roman
+    fontsize: 1.1em
+    fontcolor: rebeccapurple
+    linkcolor: red
 editor: visual
 about:
   template: trestles
@@ -25,3 +31,55 @@ about:
 I am a dedicated and technically skilled data analyst with a strong foundation in statistical analysis, programming, data processing, visualization, database management, machine learning, problem-solving, and project management. With proficiency in Python, R, RStudio, and SQL, I excel at analyzing complex data sets, cleaning and processing data, and extracting valuable insights that drive decision-making and strategic planning.
 
 My journey is driven by a passion for uncovering insights from data and a commitment to continuous learning and professional development. I am eager to tackle new challenges and contribute to the advancement of data analytics practices within the industry.
+
+## Resume
+
+<html>
+
+<head>
+
+```{=html}
+<style>
+.center {
+  text-align: center;
+}
+</style>
+```
+</head>
+
+<body>
+
+::: center
+<h3>Job Application: Data Analyst</h3>
+:::
+
+### Education
+
+| SCHOOL                                            | MAJOR                                | DEGREE      |
+|-------------------------------|-----------------------|------------------|
+| **Hebei University of Environmental Engineering** | Internet of things                   | Engineering |
+| **University of Illinois Chicago**                | Master of Science in Civic Analytics | Master      |
+
+### Skills
+
+1.Statistical knowledge: Data analysts need to have a solid foundation in statistics and be able to understand and apply various statistical tests and models to analyze data sets.
+
+2.Programming skills: Master programming languages related to data analysis, such as Python or R.
+
+3.Data Processing and Cleaning: Ability to use software tools or programming skills to process and clean data, including handling missing data, outliers, and erroneous data for analysis.
+
+4.Data Visualization: Ability to use RStudio for data visualization.
+
+5.Database Management: Understand database management systems, such as SQL, and be able to efficiently retrieve data from databases.
+
+6.Machine Learning: Understand basic machine learning concepts and techniques, including supervised and unsupervised learning, and how to use them to analyze complex data sets.
+
+7.Problem-solving skills: Able to flexibly think and solve problems when faced with problems that arise during data analysis.
+
+8.Project Management: Ability to manage data analytics projects, including planning project timelines, allocating resources, and coordinating team members.
+
+### Experience
+
+1.Participated in merchandise sales activities during college and has good communication skills.
+
+2.I once worked for Tesla, responsible for vehicle and system development and testing, and participated in many Tesla project discussions.
