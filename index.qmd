@@ -20,10 +20,10 @@ about:
       href: mailto:ysong212@uic.edu
     - icon: LinkedIn
       text: LinkedIn
-      href: linkedin.com/in/3b98132b1
+      href: www.linkedin.com/in/3b98132b1
     - icon: GitHub
       text: GitHub
-      href: https://github.com/YuChenboy/Yuchen-Song.git
+      href: https://yuchenboy.github.io/Yuchen-Song/
 ---
 
 ## Introduce
