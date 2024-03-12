@@ -8,12 +8,20 @@ about:
   image: picture.jpg
   image-width: 10em
   image-shape: rectangle
+  links: 
+    - icon: Email
+      text: Email
+      href: mailto:ysong212@uic.edu
+    - icon: LinkedIn
+      text: LinkedIn
+      href: linkedin.com/in/3b98132b1
+    - icon: GitHub
+      text: GitHub
+      href: https://github.com/YuChenboy/Yuchen-Song.git
 ---
 
-This is a Quarto website.
+## Introduce
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a dedicated and technically skilled data analyst with a strong foundation in statistical analysis, programming, data processing, visualization, database management, machine learning, problem-solving, and project management. With proficiency in Python, R, RStudio, and SQL, I excel at analyzing complex data sets, cleaning and processing data, and extracting valuable insights that drive decision-making and strategic planning.
 
-```{r}
-1 + 1
-```
+My journey is driven by a passion for uncovering insights from data and a commitment to continuous learning and professional development. I am eager to tackle new challenges and contribute to the advancement of data analytics practices within the industry.
