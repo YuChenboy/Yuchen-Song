@@ -1,0 +1,19 @@
+---
+title: "Yuchen Song"
+format: html
+editor: visual
+about:
+  template: trestles
+  id: hero-heading
+  image: picture.jpg
+  image-width: 10em
+  image-shape: rectangle
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
